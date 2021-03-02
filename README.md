@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Bruno Miranda.
-
-Currently living at Floripa :brazil:
+I'm Bruno Miranda. Currently living at Florianópolis :brazil:
 
 ## Academic Titles 
 
