@@ -9,6 +9,7 @@ Currently living at Floripa :brazil:
 :mortar_board: **Computer Engineer** graduated from the Catholic University Dom Bosco ([UCDB](https://site.ucdb.br/cursos/4/graduacao/26/engenharia-de-computacao/193/))
 
 :microscope: **MSc student** in Automation and Systems at the Federal University of Santa Catarina ([UFSC](https://ufsc.br))
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Research line: Real Time Systems_ 
   
 ## Skills
