@@ -6,7 +6,7 @@ I'm Bruno Miranda. Currently living at Florianópolis :brazil:
 
 :mortar_board: **Computer Engineer** graduated from the Catholic University Dom Bosco ([UCDB](https://site.ucdb.br/cursos/4/graduacao/26/engenharia-de-computacao/193/))
 
-:microscope: **MSc student** in Automation and Systems at the Federal University of Santa Catarina ([UFSC](https://ufsc.br))
+:microscope: **MSc.** in Automation and Systems at the Federal University of Santa Catarina ([UFSC](https://ufsc.br))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Research line: Real Time Systems_ 
   
