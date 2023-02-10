@@ -17,4 +17,4 @@ Want to send me a message? You can find me at:
 
 [![Email](https://img.shields.io/badge/Gmail-2c3e50.svg?style=flat-square&logo=gmail&logoColor=white&labelColor=e74c3c)](mailto:bdouram@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-2c3e50.svg?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bdouram/)
-
+[![Youtube](https://img.shields.io/youtube/channel/views/UCw9fCcn6bL8JMO7sGjMrkLg?label=Youtube&style=social)](https://www.youtube.com/@bdouram/videos)
