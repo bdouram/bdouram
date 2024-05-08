@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-I'm Bruno Miranda.
-
-I have worked with frontend and backend with an app used by thousand people across Brazil.
-
-Currently i'm a **Ph.D. candidate on Computer Science**, working on Shared Memory Verification in High Performance Computing.
-
-I'm a Computer Engineer (UCDB, 2017) and MSc. on Automation and Systems Engineering (UFSC, 2021).
+I'm Bruno Miranda, and I'm all about tech life. From crafting slick frontend interfaces to coding up robust backend systems, I've had builted apps that folks all over Brazil currently uses. But wait, there's more! 🚀 I'm currently diving into the academic deep end as a Ph.D. candidate in Computer Science, geeking out over Shared Memory Verification in High Performance Computing. Started my journey with a Computer Engineering degree from UCDB in 2017, and kept the ball rolling with an MSc. in Automation and Systems Engineering from UFSC in 2021. Now, I'm all about pushing boundaries in High Performance Computing, Machine Learning, Reinforcement Learning, and Memory Verification. Plus, I've got some cool Real Time Computing papers out there!
 
 
-**I'm now interested on High Performance Computing, Machine Learning, Reinforcement Learning and Memory Verification.
-Also, i have published Real Time Computing papers.**
+**Got something to chat about? Hit me up anytime! You can find me at:**
 
 
 Want to send me a message? You can find me at:
