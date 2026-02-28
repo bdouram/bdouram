@@ -8,7 +8,7 @@
 <br>
 <sub> &bull; MSc in Automation and Systems Engineering (2021)</sub> 
 <br>
-<sub> &bull; BSc on Computer Engineering (2017)</sub>
+<sub> &bull; BSc in Computer Engineering (2017)</sub>
   
 <sub> **Selected publications in top-tier journal and conferences:** </sub>
 
